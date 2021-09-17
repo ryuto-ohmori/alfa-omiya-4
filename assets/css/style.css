@@ -250,6 +250,9 @@ button {
   background-color: #000000;
 }
 
+.bg-color--white {
+  background-color: #c0c0c0;
+}
 /*********************
 * title
 **********************/
